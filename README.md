@@ -32,8 +32,7 @@ Below are snapshots of each program’s output.
 ---
 
 ### 🔹 Task 6 – Voting Eligibility Checker 
-<img src="![WhatsApp Image 2025-09-08 at 21 17 42_d36f6db0](https://github.com/user-attachments/assets/7b1af777-9528-486a-a584-a4ba04b8a3a6)
-" alt="Task 6 Output" width="500">
+<img src="https://github.com/user-attachments/assets/7b1af777-9528-486a-a584-a4ba04b8a3a6" alt="Task 6 Output" width="500">
 
 ---
 
