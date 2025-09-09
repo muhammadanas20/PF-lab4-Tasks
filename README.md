@@ -6,72 +6,72 @@
 Below are snapshots of each program’s output.  
 ---
 
-### 🔹 Task 1 – Hello World  
-<img src="https://github.com/user-attachments/assets/placeholder-task1" alt="Task 1 Output" width="500">
+### 🔹 Task 1 –  Shop Discount Calculator 
+<img src="https://github.com/user-attachments/assets/87d66e02-1078-4cc6-9b99-c503b0a6f015" alt="Task 1 Output" width="500">
 
 ---
 
-### 🔹 Task 2 – Print Your Name  
-<img src="https://github.com/user-attachments/assets/placeholder-task2" alt="Task 2 Output" width="500">
+### 🔹 Task 2 –  Cinema Ticket Pricing 
+<img src="https://github.com/user-attachments/assets/9f200f25-c69b-4be7-815e-ad90d69a1273" alt="Task 2 Output" width="500">
 
 ---
 
-### 🔹 Task 3 – Add Two Numbers  
-<img src="https://github.com/user-attachments/assets/placeholder-task3" alt="Task 3 Output" width="500">
+### 🔹 Task 3 – Find Largest of Three Numbers   
+<img src="https://github.com/user-attachments/assets/1db552cb-3625-41ef-870a-857b11995b37" alt="Task 3 Output" width="500">
 
 ---
 
-### 🔹 Task 4 – Subtract Two Numbers  
-<img src="https://github.com/user-attachments/assets/placeholder-task4" alt="Task 4 Output" width="500">
+### 🔹 Task 4 –  Loan Approval Checker  
+<img src="https://github.com/user-attachments/assets/c553fe6d-7199-4180-aeaf-2c75352f2d5d" alt="Task 4 Output" width="500">
 
 ---
 
-### 🔹 Task 5 – Multiply Two Numbers  
-<img src="https://github.com/user-attachments/assets/placeholder-task5" alt="Task 5 Output" width="500">
+### 🔹 Task 5 –  Simple Calculator (Switch Case) 
+<img src="" alt="Task 5 Output" width="500">
 
 ---
 
-### 🔹 Task 6 – Welcome Message  
-<img src="https://github.com/user-attachments/assets/f6690147-2dc6-42a7-8e7e-c2611dd6333f" alt="Task 6 Output" width="500">
+### 🔹 Task 6 – Voting Eligibility Checker 
+<img src="![WhatsApp Image 2025-09-08 at 21 17 42_d36f6db0](https://github.com/user-attachments/assets/7b1af777-9528-486a-a584-a4ba04b8a3a6)
+" alt="Task 6 Output" width="500">
 
 ---
 
-### 🔹 Task 7 – Area and Perimeter of a Rectangle  
-<img src="https://github.com/user-attachments/assets/c2bf90d8-9a26-4ed5-9453-c44928cf716d" alt="Task 7 Output" width="500">
+### 🔹 Task 7 – Password Checker
+<img src="https://github.com/user-attachments/assets/2e4162cb-02a9-47bb-b333-8b36b163c572" alt="Task 7 Output" width="500">
 
 ---
 
-### 🔹 Task 8 – Percentage Calculator  
-<img src="https://github.com/user-attachments/assets/c5a24419-e2cf-49bb-a194-df913e7b8e60" alt="Task 8 Output" width="500">
+### 🔹 Task 8 – Weather Message (Hot or Pleasant)  
+<img src="https://github.com/user-attachments/assets/b665bb4b-976c-4eb6-ba2d-1afed1f9f43b" alt="Task 8 Output" width="500">
 
 ---
 
-### 🔹 Task 9 – Percentage Calculator (Variation)  
-<img src="https://github.com/user-attachments/assets/1f1cf8c1-2cee-48da-833a-8eed981faf72" alt="Task 9 Output" width="500">
+### 🔹 Task 9 – Exam Eligibility Checker 
+<img src="https://github.com/user-attachments/assets/4eb69af2-ce26-4c85-adcf-5aaedbe91d88" alt="Task 9 Output" width="500">
 
 ---
 
-### 🔹 Task 10 – Swapping Variables  
-<img src="https://github.com/user-attachments/assets/4d0eb8e5-fe08-4bc2-88ce-ed6cad7731bf" alt="Task 10 Output" width="500">
+### 🔹 Task 10 – Exam Eligibility Checker 
+<img src="https://github.com/user-attachments/assets/2275a731-a8e0-4c1f-8d6f-a5aa94b6cf16" alt="Task 10 Output" width="500">
 
 ---
 
 ## 📂 File Navigation
 
-| File Name     | Description                                    |
-|--------------|-----------------------------------------------|
-| `task1.c`    | **Task 1** – **                     |
-| `task2.c`    | **Task 2** – *Print Your Name*                 |
-| `task3.c`    | **Task 3** – *Add Two Numbers*                 |
-| `task4.c`    | **Task 4** – *Subtract Two Numbers*            |
-| `task5.c`    | **Task 5** – *Multiply Two Numbers*            |
-| `task6.c`    | **Task 6** – *Welcome Message*                 |
-| `task7.c`    | **Task 7** – *Area and Perimeter of a Rectangle* |
-| `task8.c`    | **Task 8** – *Percentage Calculator*           |
-| `task9.c`    | **Task 9** – *Percentage Calculator (Variation)*|
-| `task10.c`   | **Task 10** – *Swapping Variables*             |
+| File Name     | Short Task Description                      |
+|--------------|-------------------------------------------|
+| `task1.c`    | Shop Discount Calculator                   |
+| `task2.c`    | Cinema Ticket Pricing                      |
+| `task3.c`    | Find Largest of Three Numbers              |
+| `task4.c`    | Loan Approval Checker                      |
+| `task5.c`    | Simple Calculator (Switch Case)            |
+| `task6.c`    | Voting Eligibility Checker                 |
+| `task7.c`    | Password Checker                           |
+| `task8.c`    | Weather Message (Hot or Pleasant)          |
+| `task9.c`    | Exam Eligibility Checker                   |
+| `task10.c`   | c                  |
 
----
 
 ## 🚀 How to Compile & Run
 
