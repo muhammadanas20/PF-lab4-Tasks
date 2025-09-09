@@ -69,7 +69,7 @@ Below are snapshots of each program’s output.
 | `task7.c`    | Password Checker                           |
 | `task8.c`    | Weather Message (Hot or Pleasant)          |
 | `task9.c`    | Exam Eligibility Checker                   |
-| `task10.c`   | c                  |
+| `task10.c`   | ATM Withdrawal Validator                   |
 
 
 ## 🚀 How to Compile & Run
