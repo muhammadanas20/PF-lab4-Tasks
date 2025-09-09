@@ -27,7 +27,7 @@ Below are snapshots of each program’s output.
 ---
 
 ### 🔹 Task 5 –  Simple Calculator (Switch Case) 
-<img src="" alt="Task 5 Output" width="500">
+<img  src="https://github.com/user-attachments/assets/c92d5d88-12f4-4955-8352-d31c566c9969" alt="Task 5 Output" width="500">
 
 ---
 
