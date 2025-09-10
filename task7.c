@@ -1,13 +1,14 @@
 #include <stdio.h>
+#include <string.h>
 
 // A password checking system: If user enters 1234, print Access Granted else print
 // Access Denied.
 
 int main() {
-    int password;
+    char password [10];
     printf("Enter your password: ");
-    scanf("%d", &password);
-    if (password == 1234) {
+    scanf("%s", password);
+    if (strcmp(password, "1234") == 0) {
         printf("Access Granted\n");
     } else {
         printf("Access Denied\n");
